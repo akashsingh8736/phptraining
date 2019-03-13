@@ -1,0 +1,15 @@
+.form{
+	width: 40%;
+    min-width: 200px;
+    height: available;
+    min-height: 300px;
+    float: left;
+	margin:400px;
+	margin-top: 50px;
+    background-color:CornflowerBlue;
+}
+
+.for{
+	margin-left: 20px;
+	margin-top: 20px;
+}
