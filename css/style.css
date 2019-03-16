@@ -1,0 +1,13 @@
+.form {
+	width: 40%;
+    min-width: 200px;
+	margin:auto;
+    background-color:CornflowerBlue;
+}
+
+.error {
+	width: 40%;
+    min-width: 200px;
+	margin:auto;
+	color: red;
+}
